@@ -1,0 +1,42 @@
+---
+title: ""
+url: https://supabase.com/docs/guides/ai-tools
+---
+
+# 
+
+Home
+
+#
+
+AI Tools
+
+##
+
+Plugins, MCP, and skills for AI-first Supabase development.
+
+* * *
+
+Supabase provides integrations and resources that your AI coding agents can use to build on Supabase:
+
+  * [Agent Plugin](/docs/guides/ai-tools/plugins): One-click setup that bundles the MCP server and agent skills into a single install for your AI coding agent.
+  * [MCP Server](/docs/guides/ai-tools/mcp): Connect your AI agent to your Supabase project using the Model Context Protocol (MCP). Gives your agent tools to read your schema, run queries, manage migrations, and more - directly from your IDE.
+  * [Agent Skills](/docs/guides/ai-tools/ai-skills): Curated instruction sets that give your AI agent procedural knowledge about working with Supabase.
+  * [Prompts](/docs/guides/ai-tools/ai-prompts): Ready-to-use prompts for common Supabase tasks. Copy them into your project and reference them from your AI tool for consistent, accurate output.
+
+
+## Building AI into your app?#
+
+The tools above are for your development workflow. If you're building AI capabilities into your own product:
+
+  * [Deploy MCP servers](/docs/guides/ai-tools/byo-mcp) \- Host your own MCP server on Supabase Edge Functions so your users can connect their AI agents to your product
+  * [Vectors / Embeddings](/docs/guides/ai) \- Build semantic search, RAG pipelines, and other AI-powered features using pgvector
+
+
+### Is this helpful?
+
+No Yes
+
+### AI Tools
+
+Copy as Markdown[Ask ChatGPT](https://chatgpt.com/?hint=search&q=Read from https://supabase.com/docs/guides/ai-tools so I can ask questions about its contents)[Ask Claude](https://claude.ai/new?q=Read from https://supabase.com/docs/guides/ai-tools so I can ask questions about its contents)

@@ -1,0 +1,45 @@
+---
+title: ""
+url: https://supabase.com/docs/guides/api/rest/client-libs
+---
+
+# 
+
+REST API
+
+#
+
+Client Libraries
+
+* * *
+
+Supabase provides client libraries for the REST and Realtime APIs. Some libraries are officially supported, and some are contributed by the community.
+
+## Official libraries#
+
+`Language`| `Source Code`| `Documentation`
+---|---|---
+JavaScript/TypeScript| [supabase-js](https://github.com/supabase/supabase-js)| [Docs](/docs/reference/javascript/introduction)
+Dart/Flutter| [supabase-flutter](https://github.com/supabase/supabase-flutter/tree/main/packages/supabase_flutter)| [Docs](/docs/reference/dart/introduction)
+Swift| [supabase-swift](https://github.com/supabase/supabase-swift)| [Docs](/docs/reference/swift/introduction)
+Python| [supabase-py](https://github.com/supabase/supabase-py)| [Docs](/docs/reference/python/initializing)
+
+## Community libraries#
+
+`Language`| `Source Code`| `Documentation`
+---|---|---
+C#| [supabase-csharp](https://github.com/supabase-community/supabase-csharp)| [Docs](/docs/reference/csharp/introduction)
+Go| [supabase-go](https://github.com/supabase-community/supabase-go)|
+Kotlin| [supabase-kt](https://github.com/supabase-community/supabase-kt)| [Docs](/docs/reference/kotlin/introduction)
+Ruby| [supabase-rb](https://github.com/supabase-community/supabase-rb)|
+Godot Engine (GDScript)| [supabase-gdscript](https://github.com/supabase-community/godot-engine.supabase)|
+Elixir| [supabase-elixir](https://github.com/supabase-community/supabase-ex)|
+R| [supabaseR](https://github.com/deepanshKhurana/supabaseR/)| [Docs](https://deepanshkhurana.github.io/supabaseR/)
+
+### Is this helpful?
+
+No Yes
+
+### AI Tools
+
+Copy as Markdown[Ask ChatGPT](https://chatgpt.com/?hint=search&q=Read from https://supabase.com/docs/guides/api/rest/client-libs so I can ask questions about its contents)[Ask Claude](https://claude.ai/new?q=Read from https://supabase.com/docs/guides/api/rest/client-libs so I can ask questions about its contents)

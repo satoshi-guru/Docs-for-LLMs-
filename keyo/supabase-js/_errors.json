@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://supabase.com/dashboard/project/_/integrations/data_api/settings",
+    "error": "SPA/JS-rendered, no static content"
+  },
+  {
+    "url": "https://supabase.com/dashboard/project/_/api?page=tables-intro",
+    "error": "SPA/JS-rendered, no static content"
+  },
+  {
+    "url": "https://supabase.com/dashboard/project/_/settings/api",
+    "error": "SPA/JS-rendered, no static content"
+  },
+  {
+    "url": "https://supabase.com/dashboard/project/_/auth/providers",
+    "error": "SPA/JS-rendered, no static content"
+  },
+  {
+    "url": "https://supabase.com/dashboard/project/_/auth/url-configuration",
+    "error": "SPA/JS-rendered, no static content"
+  },
+  {
+    "url": "https://supabase.com/dashboard/project/_/auth/templates",
+    "error": "SPA/JS-rendered, no static content"
+  },
+  {
+    "url": "https://supabase.com/dashboard",
+    "error": "SPA/JS-rendered, no static content"
+  },
+  {
+    "url": "https://supabase.com/docs/guides/getting-started/tutorials/with-expo-react-native-social-auth",
+    "status": 404
+  }
+]
